@@ -1,26 +1,72 @@
-@import "tailwindcss";
+@import 'tailwindcss';
+/* @tailwind utilities; */
+@plugin "daisyui";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, dracula;
 }
 
-@theme inline {
+/* @plugin "daisyui/theme" {
+  name: 'light';
+  default: true;
+  --color-primary: #3a708a;
+  --color-secundary: #008c9e;
+  --color-accent: #556ef8;
+  --color-error: #f44336;
+  --color-warning: #d6a100;
+  --color-info: #91bdd2;
+  --color-success: #3c8c40;
+} */
+
+/* :root {
+  --background: #d1cfcf;
+  --foreground: #303030;
+} */
+
+/* @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
+} */
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #303030;
+    --foreground: #d1cfcf;
   }
-}
+} */
 
-body {
+/* body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+} */
