@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 export const Hero = () => {
@@ -8,7 +9,7 @@ export const Hero = () => {
           <h1 className='text-6xl font-bold'>Before Writing</h1>
           <p className='py-6 text-2xl'>¡Diseña historias Asombrosas!</p>
           <button className='btn btn-primary text-white'>
-            Crea Una Cuenta!
+            <Link href='/playground'>Ir a Playground</Link>
           </button>
         </div>
       </div>

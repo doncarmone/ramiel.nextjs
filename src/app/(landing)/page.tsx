@@ -1,4 +1,4 @@
-import { Chat, Hero } from '@/components';
+import { Chat, Footer, Hero } from '@/components';
 
 export default function Home() {
   return (
