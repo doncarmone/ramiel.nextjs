@@ -83,7 +83,7 @@ export const Sidebar = () => {
       {/* Sidemenu */}
       <nav
         className={clsx(
-          'fixed p-5 top-0 w-[18rem] h-screen  bg-base-100  z-20 shadow-2xl transform transition-all duration-300 mt-14',
+          'fixed p-5 top-0 w-[16rem] h-screen  bg-base-100  z-20 shadow-2xl transform transition-all duration-300 mt-14',
           {
             'translate-y-full': !isSideMenuOpen,
           }
@@ -116,7 +116,7 @@ export const Sidebar = () => {
             key={item.label}
             href={item.href}
             onClick={item.onClick}
-            className='flex items-center mt-10 p-2 hover:bg-gray-600 rounded transition-all'
+            className='flex items-center mt-10 p-2 hover:bg-gray-600 rounded-lg transition-all'
           >
             {item.icon}
             <span className='ml-3 text-xl'>{item.label}</span>

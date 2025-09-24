@@ -8,10 +8,10 @@ export const Navbar = () => {
   const openMenu = useUIStore((state) => state.openSideMenu);
   return (
     <nav
-      className='navbar flex items-center px-4 py-2 bg-cyan-700 shadow-lg mb-10 top-0 left-0 z-30'
+      className='navbar navbar-lg flex items-center px-4 py-4 bg-cyan-700 shadow-lg mb-10 top-0 left-0 z-30 h-12'
       style={{ position: 'fixed' }}
     >
-      <div className='flex-none lg:hidden'>
+      {/* <div className='flex-none lg:hidden'>
         <label
           htmlFor='my-drawer-3'
           aria-label='open sidebar'
@@ -31,7 +31,7 @@ export const Navbar = () => {
             ></path>
           </svg>
         </label>
-      </div>
+      </div> */}
       {/* Elementos a la izquierda */}
       <div className='px-1 mx-1'>
         <Link href='/'>

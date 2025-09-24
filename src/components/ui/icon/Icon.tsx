@@ -4,8 +4,8 @@ export const Icon = () => {
   return (
     <Image
       src={`/imgs/icon.png`}
-      height={80}
-      width={130}
+      height={60}
+      width={120}
       alt='Before Writing Icon'
       unoptimized
     />
