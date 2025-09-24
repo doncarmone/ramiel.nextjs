@@ -70,3 +70,19 @@
   -webkit-animation-name: fadeIn;
   animation-name: fadeIn;
 } */
+/* 
+.novel-img-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  min-height: 28.125rem !important;
+  max-height: 31.25rem !important;
+  min-width: 15.625rem !important;
+  max-width: 18.75rem !important;
+}
+
+.novel-img {
+  display: block !important;
+  width: auto !important;
+  transform: scale(0.2); 
+} */

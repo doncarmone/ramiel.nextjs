@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "Principal",
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 2,
+    "type": "Secundario",
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 3,
+    "type": "Terciario",
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  }
+]

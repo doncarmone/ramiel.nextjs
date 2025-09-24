@@ -1,0 +1,434 @@
+[
+  {
+    "id": 5,
+    "sort": 2,
+    "title": "Nihil magni ad eos.",
+    "description": "Odio quod placeat quae harum.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 6,
+    "sort": 3,
+    "title": "Ut cum et aut rerum.",
+    "description": "Voluptatum numquam omnis doloribus.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 7,
+    "sort": 4,
+    "title": "Optio iste ipsum sit.",
+    "description": "Ea est consequatur ad porro eum ullam ipsam nulla molestias voluptatem.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 8,
+    "sort": 5,
+    "title": "Vero et consequatur.",
+    "description": "Iste sint ipsum.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 9,
+    "sort": 6,
+    "title": "Voluptas quia sed.",
+    "description": "Exercitationem et sed eveniet rerum blanditiis dignissimos.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 10,
+    "sort": 7,
+    "title": "Aut a quo et tenetur odio.",
+    "description": "Maiores impedit in sint animi corrupti voluptatem.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 12,
+    "sort": 1,
+    "title": "Earum ratione nihil.",
+    "description": "Aspernatur molestiae non in eaque et amet itaque natus velit sapiente saepe.",
+    "id_novel": 3,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-06-21 05:13:10"
+  },
+  {
+    "id": 13,
+    "sort": 1,
+    "title": "Quia at et est.",
+    "description": "Quibusdam ducimus hic fugit facilis.",
+    "id_novel": 4,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 14,
+    "sort": 2,
+    "title": "Iste ad nihil.",
+    "description": "Quis quia excepturi cupiditate assumenda deleniti provident ea.",
+    "id_novel": 4,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 15,
+    "sort": 1,
+    "title": "Voluptates eaque ut.",
+    "description": "Laboriosam recusandae aut accusantium ea.",
+    "id_novel": 5,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 16,
+    "sort": 2,
+    "title": "Eos eum nihil ex.",
+    "description": "Porro voluptatum ipsam nam consequatur ex est sed enim.",
+    "id_novel": 5,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 17,
+    "sort": 1,
+    "title": "Ut minima modi numquam.",
+    "description": "Et est et exercitationem et quis corporis.",
+    "id_novel": 6,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 18,
+    "sort": 1,
+    "title": "Ut fuga vero vero.",
+    "description": "Impedit in iure sint.",
+    "id_novel": 7,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 19,
+    "sort": 2,
+    "title": "Eius voluptates et quia.",
+    "description": "Debitis explicabo et voluptatem est illum eos.",
+    "id_novel": 7,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 20,
+    "sort": 1,
+    "title": "Deserunt animi vero.",
+    "description": "Dignissimos laborum earum dicta hic magnam.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 21,
+    "sort": 2,
+    "title": "Modi corporis tempora.",
+    "description": "Natus minima est aspernatur architecto veritatis reiciendis in provident ratione molestias qui.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 22,
+    "sort": 3,
+    "title": "Ut temporibus rerum dicta.",
+    "description": "Quis velit et reiciendis voluptates.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 23,
+    "sort": 4,
+    "title": "Molestiae odio eius.",
+    "description": "Porro voluptatem dolores aut.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 24,
+    "sort": 5,
+    "title": "Optio explicabo et quis.",
+    "description": "Labore dolores odio eius.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 25,
+    "sort": 6,
+    "title": "Autem error tempora ex.",
+    "description": "Voluptatibus libero id rerum et a culpa nulla rerum esse aut quia itaque.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 26,
+    "sort": 7,
+    "title": "Cupiditate ipsum in.",
+    "description": "Voluptatem qui enim quae qui.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 27,
+    "sort": 8,
+    "title": "Eos impedit est dolores.",
+    "description": "Velit dolores sed asperiores.",
+    "id_novel": 8,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 28,
+    "sort": 1,
+    "title": "Aut amet libero et ut.",
+    "description": "Rerum est eum quia ut et quia error id aut tempora.",
+    "id_novel": 9,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 29,
+    "sort": 2,
+    "title": "Perspiciatis id ab.",
+    "description": "Neque minima qui sit esse cupiditate et quia placeat consequatur cumque ad.",
+    "id_novel": 9,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 30,
+    "sort": 1,
+    "title": "Sint doloremque.",
+    "description": "Et neque ut sed et ad harum optio omnis ab.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 31,
+    "sort": 2,
+    "title": "Non ut quaerat iure eos et.",
+    "description": "Dolor dolorem perspiciatis dolorem omnis alias vel aperiam dolor officia.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 32,
+    "sort": 3,
+    "title": "Sapiente sit.",
+    "description": "Autem ut voluptatem molestias dolore nam aut.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 33,
+    "sort": 4,
+    "title": "Illo sit unde illum.",
+    "description": "Aut natus in nihil facilis aut ex veritatis sed.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 34,
+    "sort": 5,
+    "title": "In reprehenderit sed quo et.",
+    "description": "Architecto repellat adipisci est quis nulla sit.",
+    "id_novel": 10,
+    "created_at": "2020-03-19 03:00:33",
+    "updated_at": "2020-03-19 03:00:33"
+  },
+  {
+    "id": 36,
+    "sort": 1,
+    "title": "Novatos",
+    "description": "El Agente Mohr se le asignan dos novatos que han pasado la prueba Estandarizada de sus escuelas por lo cual va por ellos y los lleva a los cuarteles de NaN, les explica que es NaN y lo que significa estar ahi, les da un periodo para que tomen una decision, los somete a un entrenamiento basico por semanas (vamos a decir 3) de ejercicio fisico, manejo de armas\nEn la cuarta semana se les asigna su primer caso, que es atrapar a un perro cuya habilidad especial es teletransportanse a voluntad, la agencia lo ha identificado en una bodega cerca de algun muelles\nEl perro resulta ser un agente que lleva años entrenando Agentes",
+    "id_novel": 11,
+    "created_at": "2020-04-04 06:11:56",
+    "updated_at": "2020-04-04 06:11:56"
+  },
+  {
+    "id": 37,
+    "sort": 2,
+    "title": "No tuvo escapatoria.",
+    "description": "BP LL regresan una semana con su familia y les cuentan que ahora se dedicaran a continuar el proyecto, al regresar CC les encomienda su primera mision real, un chico desparecio en un bosque de EEUU mientras practicaba senderismo, lo asignan a NaN puesto las declaraciones del hermano, algo instantaneo, BP LL les asignan equipo de muestreo y camping pues podria tomarles mas de un dia resolver este caso, hacen el camping y salen a buscar al joven, no lo encuentran, regresan y acampan se conocen un poco mas, a la mañana siguiente van y revisan nuevamente el camino por donde reportaron la perdida, y encuentran un cadaver enterrado cerca de un claro, envian los huesos a analizar y resultan ser del joven, de inmediato la mision es terminada y AM les dice que fue un error enviarlos ahi puesto que estaban en peligro por que lo que se habia llevado al joven era un Crono Vortex",
+    "id_novel": 11,
+    "created_at": "2020-04-06 05:14:35",
+    "updated_at": "2020-04-28 05:25:50"
+  },
+  {
+    "id": 38,
+    "sort": 3,
+    "title": "Eternos Anfitriones",
+    "description": "LL y BP van al siguente dia a ver que otra cosa hacer, pero se encuentran con Makela del cap 1, ella les dice que Mohr se fue a una mision, les entrega sus contratos, sus tarjetas de credito y les asigna dos escritorios en la zona de oficinas donde tienen que hacer cosas burocraticas, LL le dan un escritorio viejo y luego son enviados a un hotel en (Lugar del dead island), el cual estaba a punto de ser remodelado, pero los lugareños habian marcado ese lugar como \"maldito\" Mohr les dice que es posiblemente energias residuales y la mision consiste en limpiar el lugar de energias malignas",
+    "id_novel": 11,
+    "created_at": "2020-05-08 05:31:18",
+    "updated_at": "2020-05-20 03:45:48"
+  },
+  {
+    "id": 39,
+    "sort": 4,
+    "title": "No todo lo que brilla es Fe",
+    "description": "LL y BP van  investigar el libro que venia en la libreta y Denisse va con ellos y les dice que el Comando central asigno una mision para Daniel Rebolledo, pero por la naturaleza de la mision se reasigno a la Dupla de LL y BP, dicha mision es en España, en Archivel Murcia, ahi se encuentra la Santisima Iglesia de la verdadera fe en cristo y su santisima Madre de Archivel, dicha iglesia es una secta de la cual se han reportados varios \"Accidentes\" relacionados a posesiones demonicas, pero la secta en si recibio inmunidad por parte del gobierno español en la decada de los 80's, esta mision LL se infiltra mientras que BP va con el detective el cual les da la informacion de la secta, la mision de LL es descubrir que es eso a lo que se refieren con posesiones demoniacas y recabar la mayor cantidad de evidencia.",
+    "id_novel": 11,
+    "created_at": "2020-06-07 05:57:13",
+    "updated_at": "2020-06-07 05:57:13"
+  },
+  {
+    "id": 40,
+    "sort": 5,
+    "title": "Devorado vivo",
+    "description": "BP, LL, IC llegan a lo HQ se encuentran con Dennisse, esta toma una llamada, ella despliega un equipo rescate para ir por el equipo del departamento de IC, habla con un politico de España, ella les dice que no hubo mejor manera de terminar con la mision, da detalles, pero LL se siente mal porque casi muere, El Jamaiquino le dice que hay una habitacion para meditar y ella va, sala holografica, pasados unos dias una alarma se emite y todos son enviados con trajes especiales antiradiacion, los envian a Siberia, encuentran en un aserradero una plasta negra, AM los ve y les dice que tienen que ayudar en lo que puedan, los chicos llevan una muestra a un laboratorio improvisado y ven a un hombre cuyas extremidades fueron deboradas, hombre despierta grita algo y muere, Garland entra y pregunta por LL y BP pues el CC tiene una nueva mision para ellos, AM le dice que los necesita ahi, pasan todo el dia analizando la plasta negra, montan un campamento improvisado, LL y BP comparten una tienda de campaña, BP despierta a media noche, va al baño, y ve que una las carpas aun esta encendida, escucha voces, AM DH GB VM MS, todos hablando de la situacion de la plasta hablan de traer mas novatos, GB le pregunta sobre LL y BP a AM y este le dice que son buenos muchachos, pero GB le dice que reviso los informes y le pregunta acerca de su entrenamiento, D H le dice que solo llevaron un entrenamiento basico de tres semanas, GB se molesta y sugiere que los manden con Marduque, al dia siguiente AM platica con ellos",
+    "id_novel": 11,
+    "created_at": "2020-08-08 05:09:33",
+    "updated_at": "2020-09-07 04:25:56"
+  },
+  {
+    "id": 41,
+    "sort": 6,
+    "title": "El enemigo de mi enemigo es mi amigo",
+    "description": "LL y BP les asignan una mision en Mexico, Cerca de Michoacan, para investigar la desparicion de unos jovenes en un campamento, al acercarse encontraron una ouija e hicieron todas las pruebas posibles, tomando como base su mision uno, pero no encontraron rastros de nada, un viejo con unas cabras les dice que deberian irse, pues no son tierras seguras para extraños pues una camioneta blindada iba a su posicion, de regreso la camioneta los intercepta, eran narcos y los llevan a la casa de su patron en una finca, el patron les ofrece cosas y les dice que ellos no fueron los que desaparecieron a los chicos, LL le pregunta que porque los trajeron, el Capo les dice que saben que es NaN y que NaN ha trabajado desde la Cosa Nostra, pues segun esto jugar con lo desconocido no es algo con lo que puedan lidear siempre y una autoridad que les quite esos problemas es la unica a la que le tienen un minimo de respeto. NaN les da una base de datos para realizar las investigaciones y saber las raices de los muchachos o las familias con las que estaban relacionadadas, esa BD contenia informacion de todos los Mexicanos, LL intenta buscarse a si misma y descubre que ya tenian un resgistro, un perfil psicologico, compatibilidad emocional y de cooperacion para alguien con el perfil de Bento. no encuentran a los muchachos , despues de esto son enviados al entramiento a la base americana",
+    "id_novel": 11,
+    "created_at": "2020-09-17 00:53:01",
+    "updated_at": "2020-09-21 04:29:44"
+  },
+  {
+    "id": 44,
+    "sort": 1,
+    "title": "Test",
+    "description": "test",
+    "id_novel": 13,
+    "created_at": "2020-10-15 20:25:20",
+    "updated_at": "2020-10-15 20:25:20"
+  },
+  {
+    "id": 45,
+    "sort": 2,
+    "title": "TEST 2",
+    "description": "This is a test",
+    "id_novel": 13,
+    "created_at": "2020-10-29 17:08:06",
+    "updated_at": "2020-10-29 17:08:06"
+  },
+  {
+    "id": 46,
+    "sort": 7,
+    "title": "NaN America.",
+    "description": "BP Y LL van a Alaska a conocer a CC, ahi llegan y ven una habitacion bien blindada con  un conjunto de personas cuidandola por dentro, ahi hay un cubo giratorio, ven los cerebros del CC, saliendo de ahi AM los lleva a la base americana y una Huli jing, Paula Hutchinson, los guia, y les explica que muchas de las creaturas si extieron, pero se extenguieron, y los que sobran son aquellos de los que aun no se tenian registro, los ponen a prueba durante semanas e incluso a estudiarlos",
+    "id_novel": 11,
+    "created_at": "2020-11-01 00:38:54",
+    "updated_at": "2020-11-08 04:43:28"
+  },
+  {
+    "id": 47,
+    "sort": 8,
+    "title": "La bruja de Midwich",
+    "description": "BP y LL viajan a UK a un pueblo llamado Midwich, donde se reporto un asesinato en una preparatoria, donde BP se hace pasar por un maestro de Fisica, dicho asesinato llama la atencion de todos los locales pues tiene similitud con otros asesinatos que han pasado muchos años atras , la posicion de los cuerpos es similar, por lo que los locales le atribuyen esto a una Bruja",
+    "id_novel": 11,
+    "created_at": "2020-12-27 06:30:59",
+    "updated_at": "2020-12-27 06:30:59"
+  },
+  {
+    "id": 49,
+    "sort": 9,
+    "title": "El alimento del miedo",
+    "description": "BP aun en cama investiga acerca del diario de Mandy, mientras que LL realiza el reporte de lo sucedido, sale con DR, AM le dice que hay una mision de recuperar un objeto, pero que estas misiones tienden a tener sorpresas y le menciona que podria ser una mision mas avanzada para ella, LL acepta y BP se queda, llegan a una casa la cual es donde se encuentra el objeto, entran, AM sube al segundo piso, LL escucha voces familiares en el comedor  y se da cuenta de que son familiares suyos, BP investiga y manda pedir  un libro de registros, F llega y se queda con el descubre que puede comunicarse con los humanos,ella se sorprende , ellos le dicen cosas malas e insultos, y sale de ahi, entra a un hospital donde nadie la ve, se trata del hospital donde trabajan sus padres, encuentra a su padre y este le dice las peores cosas que ella puede escuchar, sale de ahi, y un grupo de pacientes ancianos comienzan a seguirla, el grupo crece hasta que ella se defiende a disparos, pero el grupo la ataca, llega AM y la rescata, buscan la salida del hospital y entran en un salon de eventos adornados como si fuera una recepcion de una boda, el lugar se estremece y los invitados no tienen rostro pero sus cabezas los observan ,  AM sabe donde esta la salida y salen de la casa, AM le explica que era ese lugar y finaliza la mision",
+    "id_novel": 11,
+    "created_at": "2021-03-07 05:44:22",
+    "updated_at": "2021-03-08 04:04:09"
+  },
+  {
+    "id": 50,
+    "sort": 10,
+    "title": "Remanente",
+    "description": "LL es llevada al hospital, DR la visita, BP la visita AM tambien y mientras hablan M menciona a los padres de LL y ella despierta, la dan de alta, BP recupera su movilidad, ambos hacen cosas de novatos, DH les da un regalo, y regresan a sus casas, BP se encuentra con su padre y madre, LL llega con a casa de sus padres y estos le dicen que van a ir a la finca de sus abuelos a pasar las fiestas, LL se duerme con VL, una noche se despierta gritando, otra llorando, y la tercera se orina en la cama, VL descubre la placa de NaN y le pide explicaciones pues su comportamiento no es normal, LL le revela su secreto, se comunica con AM y le dice, AM se ve con LL y VL  le dice que ahora ella tendra que firmar un acuerdo, AM le promete a VL que curaran a LL, BP le declara su amor a N",
+    "id_novel": 11,
+    "created_at": "2021-03-31 05:32:01",
+    "updated_at": "2021-03-31 05:32:01"
+  },
+  {
+    "id": 51,
+    "sort": 11,
+    "title": "La Profecia de Arnold",
+    "description": "LL, AM, VL estan en la habitacion, AM le dice que es el mentor de LL y que la llevara con alguien para que sus pesadillas terminen, VL promete guardar el secreto de NaN, LL acompaña a AM y este la lleva al Tibet, ahi encuentran a un monje que resulta ser el mismo que el del simulador, le dice unas cuantas cosas, de regreso con BP todo NaN esta siendo asignando a misiones e incluso ellos, al leer el expediente aparentemente los asignaron a investigar a un mago en las vegas, a BP le parece raro, llegan a las vegas y BP le dice a LL que se le hace muy extraño que todos estuvieran en misiones, revisa el estatus de otros de sus compañeros y descubren que a Luis el jamaiquino lo enviaron a investigar algo similar a londres, otros chicos se encunetraban en Rio de Janeiro, muchos agentes estaban asignados a misiones en lugares turisticos a investigar casos que no parecian la gran cosa y por mucho tiempo, ellos investigan y descubren a  un farsante, terminan la mision antes de tiempo y al regresar a su cubiculo ven todo vacio, DH los manda llamar y les dice que no han terminado que regresen a las Vegas y BP la confronta, alguien llega y les dice que como LL y BP estan libres han sido  asignados a otra mision urgente por parte de la ONU, DH les confiesa que todo era una fachada para evitar que los enviaran a una mision en Corea del Norte",
+    "id_novel": 11,
+    "created_at": "2022-03-12 23:31:25",
+    "updated_at": "2022-11-04 23:14:49"
+  },
+  {
+    "id": 53,
+    "sort": 12,
+    "title": "El secreto de los tuneles",
+    "description": "AM toma el diario de MH y lleva a BP y LL a un elevador que estaba oculto en las instalaciones, y les va  explicando como era Mandy y su obsesion con los tuneles en NaN, llegan a una sala muy subterranea donde se encontraba un monolito oscuro les explica que es uno de los casos mas antiguos de NaN y hasta la fecha no han tenido una respuesta de que es ese monolito, dihco monolito esta conectado a cientos de cables que hacen contacto con el, en la parte superior del monolito habia una maquina de donde enamaban los cables, AM les explica que esa maquina hace posible abrir tuneles en espacios conocidos, pero anteriormente se tenia que recibir un entrenamiento especial para hacer uso de los tuneles, ya que por si solo el monolito permite transportar materia y seres humanos, pero requiere de cierta concentracion en el punto en el que se va aparecer, pues el sujeto podria perder la vida en el envio, la maquina centra dos puntos a enlazarce y genera una ilusion de un pasillo largo para caminar de esta manera se obtiene la atencion de los sujetos a transportarse y les muestra su reloj el cual posee una pieza diminuta del monolito ya que en dicha camara hay trozos de este y les explica como Mandy se obsesiono como saber el origen y los secretos de este, es por ello que ella lo llamaba el monolito del espacio y pensaba que pudiera existir un monolito del tiempo que al juntarse podrian viajar a volutad a cualquier parte del tiempo y el espacio sin importar la epoca\nDespues de eso DH le habla a AM que necesitan ayuda de BP y LL en una mision en Sudafrica, una agente ha desaparecido en un centro comercial pero segun las camaras de seguridad dicha agente sigue ahi, un grupo de agentes de menor rango van a investigar tambien",
+    "id_novel": 11,
+    "created_at": "2022-11-06 22:51:32",
+    "updated_at": "2022-12-29 00:11:39"
+  },
+  {
+    "id": 54,
+    "sort": 13,
+    "title": "Rebellion",
+    "description": "DH le pregunta a Dalia que porque no puede hablar en su lengua nativa y recurre al hebreo, Dalia le dice que no lo recuerda muy bien, pero es la lengua con la que se puede comunicar, y que solo recuerda que su nombre es Nevan, pero que no recuerda quien es, a lo que DH le dice que si no sabe quien es ni que es, la va tener que encerrar Nevan le dice que no es justo porque no recuerda ni quien es, DH le pregunta que quien era la mujer que parecia casi momia del centro comercial, Nevan le dice que ese era su antiguo cuerpo pero no podia manternelo mas tiempo, siente que fue accidental lo que le hizo a Dalia \nDH le dice que mientras no sepa quien es, es culpable y que la prioridad maxima es rescatar a Dalia, Patrick llega y pregunta por DH, Patrick le dice que el comando central requiere de la ayuda de un par de agentes para capturar unos cachorros de leon kimera fantasma, todos en la sala voltean a ver a LL y BP , DH les dice que no pueden ayudar de otra forma actualmente y los envia con FF, les da una mochila llena de equipo, herramientas que ya habian usado antes y los envian a una casa cerca de Kirsanovka Óblast de Oremburgo en Rusia BP y LL aparecen en el patio de la casa, entran y ven mucho polvo ambos se colocan su equipo y van por los pasillos, escuchan ruido en el segundo piso, suben y en una habitacion en una silla se encuetran con AM y seis jaulas con los cachorros, los agentes se sorprenden y le preguntan que es lo que esta pasando, AM les dice que no ha sido muy honesto con ellos, pero que los quiere presentar con alguien, les dice que dejen sus Alfas en la casa, bajan hasta la cochera y suben aun auto muy viejo, cuadrado, en el camino les va contando que lo que descubrieron era lo que estaba espeando durante años, primero se discupla por no ser el mejor mentor y que el hecho de que el haya sido su mentor fue porque le pidio un favor a la agente Vannessa y lleva años siendo un doble agente para otra organizacion llamada Rebellion, llegando a una mansion en malas condiciones lo reciben unos agentes de Rebellion",
+    "id_novel": 11,
+    "created_at": "2023-02-09 05:07:15",
+    "updated_at": "2023-02-19 05:19:39"
+  },
+  {
+    "id": 57,
+    "sort": 14,
+    "title": "La última de los Ápeiron",
+    "description": "Los muchachos se presetan con YV, los hace pasar a una oficina que tiene, el les decie que hay muchas cosas raras que han pasado y que piensa que todo tiene que ver, eso es lo que piensa de la profecia que les dio, con ello explica que la desaparicion de los miembros de NaN, el agujero que se encuentra en la base americana de NaN, esas dos estan unidas, los chicos dejan sus mochilas con equipo, YV les da una monedas de bronce de 15 Kopecs a cada uno, y le dice que desde ahora son miembros honorarios de Rebellion y les explica que pueden apoyar en algunas misiones de ellos Mientras que en NaN Dalia desperto de un largo sueño y demanda hablar con alguien, Denisse le dice que no, si no va a cooperar no va hablar, Dalia le dice ya recuerda que fue lo que paso, le dice que recordo su nombre, seria algo asi como Nevan y le dice que ha despertado de un sueño donde uso a Dalia como recipiente y que si le consigue otro recipiente podra liberar a Dalia, Denisse le dice que de ninguna manera hara eso, Pero Nevan le explica que es la unica manera de recuperar a Dalia, Nevan sugiere usar un prisionero, Denise le pregunta que que se supone que es ella, le dice que es una humana con talentos, le cuenta que su pueblo era una de las civilizaciones mas avanzadas hace 50K años, DH le pregunta por que regreso de su sueño y ella le dice que algo la desperto",
+    "id_novel": 11,
+    "created_at": "2023-03-11 06:20:01",
+    "updated_at": "2023-03-12 05:56:31"
+  },
+  {
+    "id": 58,
+    "sort": 15,
+    "title": "La orden de los apostoles cruzados",
+    "description": "BP y LL regresaron de la mision, los equipos regresan de corea del norte, LL y DR se encuentran y DR le dice la ha extrañado mucho, y la invita a salir,  su cita le cuenta que fue lo que sucedio en CN y deciden terminar, [INSERTAR MISION del pool de misiones] y al regresar LL tiene una llamada en su telefono personal BP la regaña por llevar su telfono pero VL le dice que su abuela/o fue hospitalizado, LL viaja a MX, DH le consigue a una estafadora a NA, LL aparece en casa de su hermana y estas viajan hasta el hospital, Hay nuevamente un ataque en Siberia en la mancha, se controla el asunto y los agentes perdidos enboscan a los agentes regresan a NaN America y solicitan la tecnologia de tuneles, se explica que estos agentes formaban parte de la ahora sociedad del dragon carmesi",
+    "id_novel": 11,
+    "created_at": "2023-05-11 05:40:00",
+    "updated_at": "2023-05-18 05:26:23"
+  },
+  {
+    "id": 59,
+    "sort": 2,
+    "title": "test",
+    "description": "Test ",
+    "id_novel": 3,
+    "created_at": "2025-05-08 05:21:00",
+    "updated_at": "2025-05-08 05:21:00"
+  },
+  {
+    "id": 61,
+    "sort": 1,
+    "title": "El niño que vivio",
+    "description": "En este capitulo se narra quien es harry potter, quien es voldemort, y el mundo magico donde vive",
+    "id_novel": 18,
+    "created_at": "2025-06-06 00:03:42",
+    "updated_at": "2025-06-06 00:03:42"
+  }
+]

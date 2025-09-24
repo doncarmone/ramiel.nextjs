@@ -1,0 +1,90 @@
+{
+  "flag": true,
+  "message": "Success",
+  "data": [
+    {
+      "id": 2,
+      "title": "La Reina Del Nuevo Mundo",
+      "resume": "En un mundo devastado por el error de los humanos, Violeta Willmore, heredera de la familia Willmore, trabajará con su padre y sus aliados sobrevivientes acerca del destino del reducido grupo de humanos que aún siguen con vida el cual se encuentra dividido entre quienes piensan que la humanidad debería extinguirse y los que piensan que con último esfuerzo se puede reconstruir un nuevo mundo.",
+      "image": "https://ramiel.nerv.com.mx/storage/users/SVIyInqlceGW66v98Qx00C9ZENbiQwwTWKuYnURS.jpg",
+      "idGenre": 1,
+      "genre": "Ciencia Ficción",
+      "idUser": 2,
+      "status": false,
+      "createdAt": "2020-01-04T07:04:36Z",
+      "updatedAt": "2025-09-23T20:19:02Z"
+    },
+    {
+      "id": 11,
+      "title": "Inverosímil",
+      "resume": "Una organización mundial recluta a dos jóvenes que, al resolver un examen estandarizado, logran resolver un acertijo que los convierte en candidatos.\r\nEn dicha organización se dedica a resolver casos que parecen no tener solución, casos paranormales, errores en la realidad, desapariciones, todo lo que las agencias y organizaciones policiacas no están dispuestas a resolver es trabajo de “NaN”",
+      "image": "https://ramiel.nerv.com.mx/storage/users/h3hcJHdjvFv7oSSTp1qSmeETBiqc7jWXDrdwtqk2.png",
+      "idGenre": 1,
+      "genre": "Ciencia Ficción",
+      "idUser": 2,
+      "status": false,
+      "createdAt": "2020-03-30T04:53:41Z",
+      "updatedAt": "2025-08-23T05:04:50Z"
+    },
+    {
+      "id": 1,
+      "title": "Memorias de un Pasado Abrupto",
+      "resume": "Jeremy tenía la vida perfecta: Estudiaba una carrera universitaria, tenía una novia que lo amaba incondicionalmente, padres amorosos, pero un pequeño viaje cambiaría su vida, en sus manos está el conformase o tomar revancha al destino tomando ventaja de la situación.\r\n\r\nPortada Cortesía de: Adrian 233455 de Unsplash.",
+      "image": "https://ramiel.nerv.com.mx/storage/users/Ang7WLvcuJK65t6fCFMh0cofQ2kXwrKhrcGGCrWK.jpg",
+      "idGenre": 1,
+      "genre": "Ciencia Ficción",
+      "idUser": 2,
+      "status": true,
+      "createdAt": "2020-01-03T19:22:20Z",
+      "updatedAt": "2025-06-12T18:57:19Z"
+    },
+    {
+      "id": 3,
+      "title": "Los Reyes de la Isla [Fixing]",
+      "resume": "Un grupo de científicos enviados a la Antártida descubren un mamut congelado, y al diseccionar reviven por accidente un virus que comienza a matar una gran parte de la población.\r\nStuart y Rodrigo se encuentran con un plan de emergencia para escapar con rumbo a Australia, pero por una grave tormenta terminan naufragando en una isla llena de edificios y estructuras tecnologías que aparenta estar desiertas.",
+      "image": "https://ramiel.nerv.com.mx/storage/users/g5wOHUFD12w0NAk8LZfaub4bm1Yvx3t9Lrfanu5P.jpg",
+      "idGenre": 1,
+      "genre": "Ciencia Ficción",
+      "idUser": 2,
+      "status": true,
+      "createdAt": "2020-02-11T18:12:58Z",
+      "updatedAt": "2025-05-27T18:47:57Z"
+    },
+    {
+      "id": 15,
+      "title": "Historias Casi Asombrosas",
+      "resume": "Serie de historias compiladas",
+      "image": "https://ramiel.nerv.com.mx/storage/users/YwUCsKMxXXbHTltO7P5giMjNaeBOroCshVBiFGED.png",
+      "idGenre": 1,
+      "genre": "Ciencia Ficción",
+      "idUser": 2,
+      "status": false,
+      "createdAt": "2020-12-23T22:07:58Z",
+      "updatedAt": "2022-08-10T22:25:43Z"
+    },
+    {
+      "id": 14,
+      "title": "Profecias de un Futuro Providente",
+      "resume": "Hightech lowlife",
+      "image": "https://ramiel.nerv.com.mx/storage/users/xCjgqAX0K9qqe6PiBbq8UL7XCfohEVieMDsG3gLk.png",
+      "idGenre": 1,
+      "genre": "Ciencia Ficción",
+      "idUser": 2,
+      "status": false,
+      "createdAt": "2020-10-15T23:15:08Z",
+      "updatedAt": "2022-03-26T23:17:21Z"
+    },
+    {
+      "id": 16,
+      "title": "Miembros de uno",
+      "resume": "Un joven se le presenta la oportunidad de rentar una casa muy grande, le ofrece un cuarto a un amigo, ambos piensan que la casa es muy grande, buscan rommies, llega a ellos una vieja amiga y entre los tres acuerdan que es mejor tener aun cuarto rommie para reducir costos, a ellos llega una chica muy reservada, viven los tipicos problemas de vivir en grupo, pero todos van generando una codependencia entre ellos",
+      "image": "https://ramiel.nerv.com.mx/storage/users/gOKtziImK8UKk9eia2SNEYh9GkxKG1J4BgAPclFy.jpg",
+      "idGenre": 3,
+      "genre": "Drama",
+      "idUser": 2,
+      "status": false,
+      "createdAt": "2021-04-02T05:38:02Z",
+      "updatedAt": "2022-03-06T16:34:03Z"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'img.daisyui.com',
+        hostname: 'ramiel.nerv.com.mx',
       },
     ],
   },

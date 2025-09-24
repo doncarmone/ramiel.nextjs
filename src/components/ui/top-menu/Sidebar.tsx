@@ -58,7 +58,7 @@ export const Sidebar = () => {
 
   const extraItems = [
     {
-      href: '/admin/orders',
+      href: '/novel',
       label: 'Tus proyectos',
       icon: <ImBooks size={20} />,
       onClick: closeMenu,
@@ -115,13 +115,22 @@ export const Sidebar = () => {
           <Link
             key={item.label}
             href={item.href}
-            onClick={item.onClick}
+            // onClick={item.onClick}
             className='flex items-center mt-10 p-2 hover:bg-gray-600 rounded-lg transition-all'
           >
             {item.icon}
             <span className='ml-3 text-xl'>{item.label}</span>
           </Link>
         ))}
+        {/* <div className='w-full h-px bg-gray-200 my-10' /> */}
+        <Link
+          href={'/'}
+          // onClick={item.onClick}
+          className='flex items-center mt-70 p-2 hover:bg-gray-600 rounded-lg transition-all'
+        >
+          <FaGear size={20} />
+          <span className='ml-3 text-xl'>Cerrar sesión</span>
+        </Link>
       </nav>
     </div>
   );
