@@ -1,66 +1,153 @@
-[
-  {
-    "id": 1,
-    "event": "Id voluptate aut deleniti. Excepturi impedit ut excepturi quidem sequi. Dolores est ipsam enim autem molestiae qui in.",
-    "sort": 1,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  },
-  {
-    "id": 2,
-    "event": "Quia reiciendis animi tempora maiores eos temporibus. Quia temporibus praesentium placeat. Labore cum nam quidem dolorum.",
-    "sort": 2,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  },
-  {
-    "id": 3,
-    "event": "Nihil autem quisquam ut quia. Debitis accusamus magni sunt in iure porro.",
-    "sort": 3,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  },
-  {
-    "id": 4,
-    "event": "Vero deleniti aliquid distinctio.",
-    "sort": 4,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  },
-  {
-    "id": 5,
-    "event": "Labore et omnis magni et error exercitationem. Soluta ipsa accusamus vel ratione. Iure vero repellat et non ipsa et.",
-    "sort": 5,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  },
-  {
-    "id": 6,
-    "event": "Voluptate quo optio quas beatae ducimus voluptatem. Aliquid totam nam dolorem laudantium adipisci est.",
-    "sort": 6,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  },
-  {
-    "id": 7,
-    "event": "Quis qui totam dolorem porro repudiandae modi.",
-    "sort": 7,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  },
-  {
-    "id": 8,
-    "event": "Dolorum reiciendis quod modi harum aut voluptatum.",
-    "sort": 8,
-    "id_novel": 1,
-    "created_at": "2020-03-19 03:00:33",
-    "updated_at": "2020-03-19 03:00:33"
-  }
-]
+{
+  "flag": true,
+  "message": "Success",
+  "data": [
+    {
+      "id": 12,
+      "event": "Violeta Recupera el satelite, pero esto la lleva a ir a Australia",
+      "sort": 1,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 10,
+      "event": "Stuart le dice a Violeta que es un experimento de su papa, esto la pone en duda, y se da cuenta de la crueldad del mundo",
+      "sort": 2,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 9,
+      "event": "Violeta y papa son juzgados, su papa le promete una nave para ella sola, ella le dice que quiere ayudar a la gente que esta en Australia",
+      "sort": 3,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 11,
+      "event": "La informacion del satelite arroja que a lo mucho hay 10K personas vivas en el mundo, pero corren el riesgo de que mueran de hambre, ademas de la amenza que asota a Europa con los animales mutados",
+      "sort": 4,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 115,
+      "event": "Violeta viaja a Australia y le lleva medicia y comida a la gente de Stuart, de regreso en la isla se pone a buscar proyectos fallidos o cancelados de su padre para ver si hay algo que pueda mejoarar la situacion",
+      "sort": 5,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 116,
+      "event": "Entre los proyectos encuentra uno que llama la atencion, pues no era de su padre, era de su abuelo, \"el desplazamiento del tiempo\", Lanne le explica que su abuelo antes de morir mando ordenera que todos sus archivos, experimientos e investigaciones se digitalizaran",
+      "sort": 6,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 117,
+      "event": "Violeta barajea la posibilidad del viaje en el tiempo, pero Lanne le explica que segun las notas rescatadas de su abuelo, la maquina no es algo convencional, si no que se trata de una piedra que descubrio cuando  estaban escabando sobre la isla, dicha roca estaba enterrada, de color marmol opaco, contenia algunas inscripciones a los lados",
+      "sort": 7,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 118,
+      "event": "Le cuenta a su padre el descubrimiento, pero su padre le dice que la dichosa piedra no esta en la isla, Alexander jr le dice que la piedra podria estar en el laboratorio secreto de su abuelo, en Arizona ",
+      "sort": 8,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 119,
+      "event": "Al encontrarla, la gente de Willmore la estudia, hasta el mismo willmore, crean una interfaz para que Lanne tambien la estudie, Lanne al cabo de unos dias descubre que la piedra trata de comunicarse con ella en codigo hexadecimal, Octal, y binario, a todos asombra la piedra",
+      "sort": 9,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 120,
+      "event": "Pasados los dias, logran enviar al pasado un boligrafo, pero no saben a que año lo mandaron, pasan los semanas, la piedra le dice a Lanne que el antiguo dueño dejo una marca de tiempo, pues cada que se use la piedra eso ayuda a saber en que punto el tiempo han estado, dicha marca no saben que fecha exacta tiene pero saben que fue despues de la WWII y antes de la llegada a Luna",
+      "sort": 10,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 121,
+      "event": "Comienzan a ver una posiblidad de restaurar el mundo volviendo al tiempo, pero al no haber una marca de tiempo que los pueda enviar 5 años al pasado, la unica forma es ir a esa fecha misteriosa entre 1945 y 1969, primero barajean la posiblidad de convencer a la gente de esa epoca de bombardear la antartida, pero saben que no lo van a lograr, pero el rumor de que hay la posibilidad de viajar en el tiempo se hace cada vez mas notiria",
+      "sort": 11,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 122,
+      "event": "Alguien se acerca a Willmore y le sugire que a la persona que viaje, la posibilidad de un sistema experimental de criogeniciacion, asi podria desepertar cada tanto tiempo, darle mantenimiento a la maquina y volver a congelarse, Willmore acepta la idea, de cualquier forma la primera idea de enviar un grupo de gente era algo arriesgado",
+      "sort": 12,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 123,
+      "event": "Lanne descubre que la piedra le puede comunicar un numero, un 1 seguido de 6 ceros, (1.000000) mas gente se une al proyecto, alguien comenta que si alteraran de apoco el pasado se podria evitar que la gente siga yendo a la antartida, al estudiar el contador, descubren que si el indicador se vuelve negativo signfica que alguien mas descubrio el mamut y la mision fracaso, pero si el contador llegara a 1.5, el futuro seria lo suficientemente diferente y con destruir el mamut bastara, pero no puede ser mucho antes de la fecha en la que ocurrio todo, pues si el indicador sube a 2.0 el futuro dejaria se ser predecible para quien viaje",
+      "sort": 13,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 124,
+      "event": "La produccion del Phamtom IV finaliza, Antony se ofrece como voluntario para ser el viajero del tiempo, durante su vuelo de prueba, la nave sufre un fallo al cruzar el hipercubo del tiempo dejandolo muy herido y la Phatom IV destruida",
+      "sort": 14,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 125,
+      "event": "Todo mundo se entera del accidente con el hipercubo, asi que los restantes que quedan, deciden ayudar a Willmore con recursos para su viaje, pero aun falta un piloto, es ahi cuando Violeta se ofrece, Willmore se niega, pero nadie mas quiere ir a un viaje sin retorno, por lo que Violeta sera la nueva pioloto aunque su madre no quiera",
+      "sort": 15,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 126,
+      "event": "La produccion del Phamtom Mark V comienza, lo diseñan de tal manera que pueda ser piolotado por dos personas, con espacio para el \"Sarcofago\" de criogenia, y lo basico para poder sobrevivir, William sugiere que integrar un experimento en que secretamente estaba trabajando una version de Lanne (Lanne Redux) con capacidad para controlar y manipular el mini generador reproductor y que el motor de criogenia funcione indefinidamente, pero tambien integran motores experimentales de hidrogeno y motores secundarios de combustible fosil\nasi como una motocicleta compacta",
+      "sort": 16,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 127,
+      "event": "Un empresario de tractores, le comenta a Willmore, que el tiene una casa que nunca quizo, pues era la primera casa de su padre, la cual abandono en un pueblo de Oregon, dicha casa estuvo vacia desde 1965, le dio las llaves y las escrituras, pues nadie se hizo cargo de ella, el odiaba esa casa, Willmore tomo eso como un regalo para que en dicho punto del tiempo Violeta pudiera tener una segunda opcion de donde llegar para abasterse",
+      "sort": 17,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 128,
+      "event": "Un empresario de tractores, le comenta a Willmore, que el tiene una casa que nunca quizo, pues era la primera casa de su padre, la cual abandono en un pueblo de Oregon, dicha casa estuvo vacia desde 1965, le dio las llaves y las escrituras, pues nadie se hizo cargo de ella, el odiaba esa casa, Willmore tomo eso como un regalo para que en dicho punto del tiempo Violeta pudiera tener una segunda opcion de donde llegar para abasterse",
+      "sort": 18,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 129,
+      "event": "se traza el plan, Violeta tiene que ir con su abuelo y convencerlo de ayudarlo a generar mas marcas del tiempo, para cualquier situacion poder regresar en el tiempo, ademas de poder instalar una antena que pueda darle a Lanne la situacion del indicador de realidad, posteriormente ir alterando algunos eventos, (Pensar en eventos para alterar)",
+      "sort": 19,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 130,
+      "event": "Pasa un tiempo de alterar eventos, pero el indicador no sube y no marca un cambio, Violeta se desespera, y al hacer un cambio brusco, provoca que tenga que salir huyendo de un lugar, de dicho lugar el PhV sufre daños, por lo que Violeta ve que se ha quedado sin la posiblidad de sumergirse ni de congelarse, ya que daño el tanque donde se almacenaba el nitrogeno liquido, por lo que decide acampar unos dias cerca de la ubicacion de la casa",
+      "sort": 20,
+      "idNovel": 2,
+      "glow": false
+    },
+    {
+      "id": 131,
+      "event": "Un par de dias de tristeza para Violeta, decide reconocer el area donde esta, ya que dicho bosque le parecio seguro, envia los mini drones a investigar a 5 km un mini drone le dice a Lanne que encontro un vehiculo con el mismo resplandor verde que se le impregno a la nave años atras, al mismo tiempo que escucha disparos, ella responde disparando, pero Lanne la regaña, le dice que mejor vaya a investigar de quien ese vehiculo, pues existe la posiblidad de que alguien haya viajado en el tiempo y la esten cazando",
+      "sort": 21,
+      "idNovel": 2,
+      "glow": false
+    }
+  ]
+}

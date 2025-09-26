@@ -10,7 +10,7 @@ export default function PlaygroundLayout({
   return (
     <>
       <Navbar />
-      <main className='min-h-screen'>
+      <main className='min-h-screen pt-21'>
         <div className='px-0 sm:px-10'>{children}</div>
       </main>
       <Footer />

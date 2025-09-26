@@ -7,4 +7,5 @@ export * from './novel/NovelCard';
 export * from './card/GenericCard';
 export * from './character/CharacterCard';
 export * from './ui/title/Title';
-export * from './ui/title/PageCover'
+export * from './ui/title/PageCover';
+export * from './notes/NotesDialog';

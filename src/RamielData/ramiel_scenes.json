@@ -1,0 +1,34 @@
+{
+  "flag": true,
+  "message": "Success",
+  "data": [
+    {
+      "id": 240,
+      "sort": 1,
+      "title": "Al principio",
+      "description": "VW y WW regresan a Arizona, su padre le dice que no mencione nada de la aproximacion de la humanidad, mucho menos de los rumores de europa asu madre y hermanas, al llegar su madre los recibe, le pregunta acerca del acciente y la regaña, pasa la tarde jugando a las muñecas con sus hermanas, WW le dice que ya mando preprar el cargamento de suministros para Port Kembla, le pide que lleve algo que el equipo de ingeniera aprovisiono, una copiadora de mentes le explica que ese procedimiento lo tendra que hacer sobre tamara para poder tener una copia fresca de todo su entrenamiento, le dice que Tony estara al mando",
+      "idChapter": 62
+    },
+    {
+      "id": 241,
+      "sort": 2,
+      "title": "A la mitad",
+      "description": "Viajan en naves, Tony le pregunta acerca de los rumores de Europa, VW no sabe mucho al respecto, Le pregunta acerca del T, llegan a  Port Kembla, ahi VW se comunica con T para que contacte al Alcalde, hacen entrega de los suministros, mientras que ella va y busca a R le regala un vino, le pregunta por Stuart, le dice que S esta muy molesto con ella, VW le dice que tiene que hablar con el, lo encuentra en su casa con T y le explica que fue lo que paso en la reunion, le explica que necesitan de T pues ha estado mas tiempo expuesta a variables impredecibles y eso puede ser de gran ayuda en las proximas comunidades, T acepta pero S no tanto, mientras VW adapta la copiadora al nuevo Cerebro, le dice que en parte tenia razon por lo que dijo, se sentia un poco molesta, pero al final le dice que en nombre de Lanne le pide disculpas y le regala unos cigarros, el los acepta",
+      "idChapter": 62
+    },
+    {
+      "id": 242,
+      "sort": 3,
+      "title": "Despues de la mitad",
+      "description": "VW le pide a Tony que la lleven a la Isla, pues piensa que puede buscar algo que mejore a la comunidades, L le dice que no cree que exista algo que pueda ayudar a la humanidad, VW le dice que solo por buscar lo hara, L la confornta y le dice que es lo que esta buscando, VW le dice que S le dijo que ella era un experimento de su padre y que siempre habia tenido esa sospecha, L le dice que eso no la deberia abrumar, si lo es o no de cualquier forma L tambien era un experimento",
+      "idChapter": 62
+    },
+    {
+      "id": 243,
+      "sort": 4,
+      "title": "Al final",
+      "description": "VW va a la oficna de su padre, y ve el desorden que S hizo hace 4 años, L le explica que su padre solo vio el desorden, recogio algo de un cajo del escritorio y se retiro hace 4 años, VW comienza a buscar por todos lados, encuentra los papeles de Lane y L le dice que si ella sabia que esa oficina no siempre fue de su padre, en un principio dicha oficina era de su Abuelo, buscando encuentra unos papeles que dicen \"Desplazamiento...\" comienza a leerlos y le pregunta a L por el experimento, pues de ser cierto signifca que alguien descubrio la manera de viajar en el tiempo",
+      "idChapter": 62
+    }
+  ]
+}

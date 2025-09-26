@@ -24,35 +24,35 @@ export const Sidebar = () => {
 
   const menuItems = [
     {
-      href: '/chapters',
+      href: '/design/chapters',
       label: 'Capitulos',
       icon: <GiBookCover size={20} />,
-      onClick: closeMenu,
+      // onClick: closeMenu,
     },
     {
       href: '/characters',
       label: 'Personajes',
       icon: <FaPeopleGroup size={20} />,
-      onClick: closeMenu,
+      // onClick: closeMenu,
     },
     {
-      href: '/chapters',
+      href: '/design/timelines',
       label: 'Linea del tiempo',
       icon: <MdOutlineTimeline size={20} />,
       onClick: onLogout,
       className: 'w-full',
     },
     {
-      href: '/notes',
+      href: '/design/notes',
       label: 'Notas',
       icon: <PiNotepadFill size={20} />,
-      onClick: closeMenu,
+      // onClick: closeMenu,
     },
     {
-      href: '/admin/products',
+      href: '/configuration',
       label: 'Configuración',
       icon: <FaGear size={20} />,
-      onClick: closeMenu,
+      // onClick: closeMenu,
     },
   ];
 
@@ -61,7 +61,7 @@ export const Sidebar = () => {
       href: '/novel',
       label: 'Tus proyectos',
       icon: <ImBooks size={20} />,
-      onClick: closeMenu,
+      // onClick: closeMenu,
     },
   ];
 

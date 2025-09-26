@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 interface Props {
   title: string;
@@ -50,7 +51,12 @@ export const NovelCard = ({
 
         <div className='card-actions justify-end mt-4'>
           <button className='btn btn-secondary rounded'>Editar</button>
-          <button className='btn btn-primary ml-4 rounded'>Diseñar</button>
+          <Link
+            href='/design/chapters'
+            className='btn btn-primary ml-4 rounded'
+          >
+            Diseñar
+          </Link>
         </div>
       </div>
     </div>
